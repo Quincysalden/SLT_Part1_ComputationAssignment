@@ -1,1 +1,0 @@
-y_test on the best (p, k) = (7, 3): 0.0380
